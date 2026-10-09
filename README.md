@@ -1,6 +1,6 @@
 # Education
 
-> Is school performance associated with socioeconomic factors?
+> Is school performance associated with location and socioeconomic factors?
 
 ---
 
