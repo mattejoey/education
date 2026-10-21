@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-- **Objective:** The main goal of this project is to determine how much of the variation in schools’ average ACT scores can be explained by location, school type, and socioeconomic factors.
+- **Objective:** The main goal of this project is to determine how much of the variation in school's average ACT scores can be explained by location, school type, and socioeconomic factors, and to learn which factors have the largest association with average ACT score.
 - **Domain:** Education
 - **Key Techniques:** Multiple Linear Regression
 
@@ -27,7 +27,7 @@
 ## Data
 
 - **Source:** https://www.edgap.org/, https://nces.ed.gov/ccd/
-- **Description:** EdGap (Excel): 7,986 schools × 7 columns, for the 2016-2017 school year. NCES school information (CSV): 102,183 schools × 65 columns, seven were kept.
+- **Description:** EdGap (Excel): 7,986 schools × 7 columns, for the 2016-2017 school year. NCES school information (CSV): 102,183 schools × 65 columns, seven columns were kept.
 
 ---
 
