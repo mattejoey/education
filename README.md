@@ -6,8 +6,6 @@
 
 ## Project Overview
 
-Provide a short and concise overview of the project. Mention the problem it solves, the data used, and the key outcomes or findings.
-
 - **Objective:** The main goal of this project is to determine how much of the variation in schools’ average ACT scores can be explained by location, school type, and socioeconomic factors.
 - **Domain:** Education
 - **Key Techniques:** Multiple Linear Regression
